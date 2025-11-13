@@ -6,7 +6,7 @@ https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker
 
 docker-compose.yaml
 
-```
+```yaml
 services:
   microwakeword:
     deploy:
