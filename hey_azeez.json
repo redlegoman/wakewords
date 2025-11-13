@@ -3,7 +3,7 @@
   "wake_word": "hey azeez",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "hey azeez.tflite",
+  "model": "hey_azeez.tflite",
   "trained_languages": [
     "en"
   ],
